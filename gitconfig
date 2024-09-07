@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tberki77@gmail.com
+	name = Tamas Berki
